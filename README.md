@@ -6,9 +6,9 @@
 - Download node.js through nvm \
 		- Releases · coreybutler/nvm-windows (github.com) \
         - Select nvm-setup.exe \
-	  - Update nvm in PowerShell: nvm use latest \
-	  - Install nvm: nvm install latest \
-	  - Use nvm:: nvm use latest
+	  - Update nvm in PowerShell: `nvm use latest` \
+	  - Install nvm: `nvm install latest` \
+	  - Use nvm:: `nvm use latest`
 
 
 ## Starting the server:
