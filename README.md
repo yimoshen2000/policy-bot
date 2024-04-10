@@ -8,7 +8,7 @@
         - Select nvm-setup.exe \
 	  - Update nvm in PowerShell: nvm use latest \
 	  - Install nvm: nvm install latest \
-	  - Use nvm:: nvm use latest \
+	  - Use nvm:: nvm use latest
 
 
 ## Starting the server:
