@@ -3,12 +3,12 @@
 ## Prerequisites
 
 - Modify .env file granting appropriate access (secret & access key for vector db & openai api)
-- Download node.js through nvm \n
-		- Releases · coreybutler/nvm-windows (github.com) \n
-        - Select nvm-setup.exe \n
-	  - Update nvm in PowerShell: nvm use latest \n
-	  - Install nvm: nvm install latest \n
-	  - Use nvm:: nvm use latest \n
+- Download node.js through nvm \
+		- Releases · coreybutler/nvm-windows (github.com) \
+        - Select nvm-setup.exe \
+	  - Update nvm in PowerShell: nvm use latest \
+	  - Install nvm: nvm install latest \
+	  - Use nvm:: nvm use latest \
 
 
 ## Starting the server:
